@@ -37,4 +37,4 @@ To view and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone # Construction-and-Design-Portfolio
+   git clone https://github.com/nikitaahire302/Construction-and-Design-Portfolio.git
